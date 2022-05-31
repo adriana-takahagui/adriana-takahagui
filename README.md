@@ -4,7 +4,7 @@
 
 * 📊 Business Intelligence Analyst
 * 👩‍💻 Data Analyst
-* 📚 Data Science MBA Candidate
+* 📚 Data Science MBA (in progress)
 
 ## Skills 👩‍💻
 
