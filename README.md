@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Adriana 👋
 
-<a href="https://www.linkedin.com/in/adrianatakahagui/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-
 ## Who am I? 👩‍💻
 
 * 📊 Business Intelligence Analyst
