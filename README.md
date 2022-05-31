@@ -1,4 +1,30 @@
-### Hi there 👋
+### Hi there 👋 I'm Adriana
+
+<a href="https://www.linkedin.com/in/adrianatakahagui/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
+
+## Who am I? 
+
+* 📊 Business Intelligence Analyst
+* 👩‍💻 Data Analyst
+* 📚 Data Science MBA Candidate
+
+## Skills 👩‍💻
+
+* 🧮 Power BI
+* 🐍 Python
+* 📊 Data Visualization
+* 🎬 Data Storytelling
+* 🗄 SQL
+* 📈 Excel
+* 🔮 Machine Learning
+
+## Find me around the world :earth_americas:
+
+<a href="https://www.linkedin.com/in/adrianatakahagui/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
+
+## My Projects
+
+
 
 <!--
 **adriana-takahagui/adriana-takahagui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
