@@ -26,7 +26,7 @@
   
 * ### 📊 Power BI Projects
   
-* [Brazil Data Professional Dashboard](https://github.com/adriana-takahagui/Profissional-Dados-Brasil): 1st place in the 3th FLAI Data Visualization Competition
+  * [Brazil Data Professional Dashboard](https://github.com/adriana-takahagui/Profissional-Dados-Brasil): 1st place in the 3th FLAI Data Visualization Competition
 
 
 
