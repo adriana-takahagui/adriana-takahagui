@@ -12,8 +12,9 @@
 * 🐍 Python
 * 📊 Data Visualization
 * 🎬 Data Storytelling
-* 🗄 SQL
+* 🧠 Logical Thinking
 * 📈 Excel
+* 🗄 SQL
 * 🔮 Machine Learning
 
 ## Find me around the world :earth_americas:
