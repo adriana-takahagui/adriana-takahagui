@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/adrianatakahagui/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 
-## Who am I? 
+## Who am I? 👩‍💻
 
 * 📊 Business Intelligence Analyst
 * 👩‍💻 Data Analyst
@@ -22,9 +22,9 @@
 
 <a href="https://www.linkedin.com/in/adrianatakahagui/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
 
-## My Projects
+## My Projects ⭐
   
-### Power BI Projects
+### * 📊 Power BI Projects
   
 * [Brazil Data Professional Dashboard](https://github.com/adriana-takahagui/Profissional-Dados-Brasil): 1st place in the 3th FLAI Data Visualization Competition
 
