@@ -27,9 +27,9 @@
   
   * [Brazil Data Professional Dashboard](https://github.com/adriana-takahagui/Profissional-Dados-Brasil): 1st place in the 3rd FLAI Data Visualization Competition
 <!--
-* ### Data Challenge
+* ### ⚙ Data Challenge
   
-  * [Stone Data Challenge 2022](): Semifinals (ranked in the TOP 10)
+  * [Stone Data Challenge 2022](https://github.com/adriana-takahagui/STONE-Data-Challenge-2022-3-Etapa): Semifinals (ranked in the TOP 10)
 
 
 **adriana-takahagui/adriana-takahagui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
