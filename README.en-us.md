@@ -1,12 +1,13 @@
 ### Hi there 👋 I'm Adriana 👋
 
-*Read this in other languages: [Brazilian Portuguese](README.md)*
+*Disponível também em: [Português](README.md)*
 
 ## Who am I? 👩‍💻
 
-* 📊 Business Intelligence Analyst
-* 👩‍💻 Data Analyst
-* 📚 Data Science MBA (in progress)
+* 📊 Business Intelligence
+* 👩‍💻 Data Analytics
+* 📈 Business Analytics
+* 📚 MBA em Data Science (in progress)
 
 ## Skills 👩‍💻
 
@@ -15,9 +16,12 @@
 * 📊 Data Visualization
 * 🎬 Data Storytelling
 * 🧠 Logical Thinking
-* 📈 Excel
-* 🗄 SQL
-* 🔮 Machine Learning
+* 🧠 Analytical Thinking 
+* 🧮 DAX
+* 🗂️ Power Query (M Language)
+* 📝 Excel
+* 📜 SQL
+* 🔮 Machine Learning 
 
 ## Find me around the world :earth_americas:
 
@@ -31,7 +35,7 @@
 
 * ### ⚙ Data Challenge
   
-  * [Stone Data Challenge 2022](https://github.com/adriana-takahagui/STONE-Data-Challenge-2022-3-Etapa): Semifinals (ranked in the TOP 10)
+  * [Stone Data Challenge 2022](https://github.com/adriana-takahagui/STONE-Data-Challenge-2022-3-Etapa): Semifinals (ranked in the TOP 10 among 1500 candidates)
 
 <!--
 **adriana-takahagui/adriana-takahagui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
