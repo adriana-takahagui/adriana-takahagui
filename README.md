@@ -1,35 +1,41 @@
-### Hi there 👋 I'm Adriana 👋
+### Olá 👋 Eu sou Adriana 👋
 
-## Who am I? 👩‍💻
+*Read this in other languages: [English](README.en-us.md)*
 
-* 📊 Business Intelligence Analyst
-* 👩‍💻 Data Analyst
-* 📚 Data Science MBA (in progress)
+## Quem sou eu? 👩‍💻
 
-## Skills 👩‍💻
+* 📊 Business Intelligence (Inteligência de Negócio)
+* 👩‍💻 Data Analytics (Análise de Dados)
+* 📈 Business Analytics (Análise de Negócio)
+* 📚 MBA em Data Science (Ciência de Dados) (em andamento)
+
+## Habilidades 👩‍💻
 
 * 🧮 Power BI
 * 🐍 Python
-* 📊 Data Visualization
-* 🎬 Data Storytelling
-* 🧠 Logical Thinking
-* 📈 Excel
-* 🗄 SQL
-* 🔮 Machine Learning
+* 📊 Visualização de Dados
+* 🎬 Storytelling com Dados
+* 🧠 Raciocínio Lógico
+* 🧠 Pensamento Analítico
+* 🧮 DAX
+* 🗂️ Power Query (Linguagem M)
+* 📝 Excel
+* 📜 SQL
+* 🔮 Machine Learning (Aprendizem de Máquina)
 
-## Find me around the world :earth_americas:
+## Encontre-me aqui também :earth_americas:
 
 <a href="https://www.linkedin.com/in/adrianatakahagui/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
 
-## My Projects ⭐
+## Meus Projetos ⭐
   
-* ### 📊 Power BI Projects
+* ### 📊 Projetos de Power BI
   
-  * [Brazil Data Professional Dashboard](https://github.com/adriana-takahagui/Profissional-Dados-Brasil): 1st place in the 3rd FLAI Data Visualization Competition
+  * [Dashboard do Profissional de Dados no Brasil](https://github.com/adriana-takahagui/Profissional-Dados-Brasil): 1º lugar na 3ª Competição da FLAI de Visualização de Dados
 
 * ### ⚙ Data Challenge
   
-  * [Stone Data Challenge 2022](https://github.com/adriana-takahagui/STONE-Data-Challenge-2022-3-Etapa): Semifinals (ranked in the TOP 10)
+  * [Stone Data Challenge 2022](https://github.com/adriana-takahagui/STONE-Data-Challenge-2022-3-Etapa): Semifinais (TOP 10 entre mais de 1500 candidatos)
 
 <!--
 **adriana-takahagui/adriana-takahagui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
