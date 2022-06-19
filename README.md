@@ -1,6 +1,6 @@
 ### Olá 👋 Eu sou Adriana 👋
 
-*Read this in other languages: [English](README.en-us.md)*
+Read this in other languages: [![English](https://img.shields.io/badge/lang-en-red.svg)](README.en-us.md)
 
 ## Quem sou eu? 👩‍💻
 
