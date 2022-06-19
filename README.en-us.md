@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Adriana 👋
 
-*Disponível também em: [Português](README.md)*
+Disponível também em: [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README.md)
 
 ## Who am I? 👩‍💻
 
