@@ -21,7 +21,7 @@ Read this in other languages: [![English](https://img.shields.io/badge/lang-en-r
 * 🗂️ Power Query (Linguagem M)
 * 📝 Excel
 * 📜 SQL
-* 🔮 Machine Learning (Aprendizem de Máquina)
+* 🔮 Machine Learning (Aprendizagem de Máquina)
 
 ## Encontre-me aqui também :earth_americas:
 
