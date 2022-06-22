@@ -31,8 +31,10 @@ Disponível também em: [![pt-br](https://img.shields.io/badge/lang-pt--br-green
   
 * ### 📊 Power BI Projects
   
-  * [Brazil Data Professional Dashboard](https://github.com/adriana-takahagui/Profissional-Dados-Brasil): 1st place in the 3rd FLAI Data Visualization Competition
+  * [Brazil Data Professional Dashboard](https://github.com/adriana-takahagui/Profissional-Dados-Brasil): 1st place in the 3rd FLAI Data Visualization Competition. Dashboard developed with a focus on data professionals, their skills, activities and salary.
 
+  * [Dashboard Google Play Store](https://github.com/adriana-takahagui/Google-Play-Store): Dashboard for analysing and identifying successful apps at Google Play Store (2nd FLAI Data Visualization Competition)
+  
 * ### ⚙ Data Challenge
   
   * [Stone Data Challenge 2022](https://github.com/adriana-takahagui/STONE-Data-Challenge-2022-3-Etapa): Semifinals (ranked in the TOP 10 among 1500 candidates)
