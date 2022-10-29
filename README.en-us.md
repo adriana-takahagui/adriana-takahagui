@@ -21,6 +21,8 @@ Disponível também em: [![pt-br](https://img.shields.io/badge/lang-pt--br-green
 * 🗂️ Power Query (M Language)
 * 📝 Excel
 * 📜 SQL
+* ⭐ PySpark
+* 🧱 Databricks
 * 🔮 Machine Learning 
 
 ## Find me around the world :earth_americas:
