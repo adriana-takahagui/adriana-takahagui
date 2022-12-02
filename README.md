@@ -36,6 +36,10 @@ Read this in other languages: [![English](https://img.shields.io/badge/lang-en-r
   * [Dashboard do Profissional de Dados no Brasil](https://github.com/adriana-takahagui/Profissional-Dados-Brasil): 1º lugar na 3ª Competição da FLAI de Visualização de Dados. Dashboard desenvolvido com foco no profissional de dados, suas habilidades, atividades e remuneração. 
   
   * [Dashboard Google Play Store](https://github.com/adriana-takahagui/Google-Play-Store): Dashboard para análise de aplicativos de sucesso da Loja do Google (2ª Competição da FLAI de Visualização de Dados) 
+
+* ### 📊 Projetos de Power BI + Python
+  
+  * [Previsão da Copa do Mundo Qatar 2022](https://github.com/adriana-takahagui/copa-mundo-2022): Projeto resultado da participação no Minicurso Data Science na Copa do Mundo de 2022 ministrado pela FLAI Inteligência Articial, pelos professores Ricardo Rocha e Juliana Scudilio.
   
 * ### ⚙ Data Challenge
   
