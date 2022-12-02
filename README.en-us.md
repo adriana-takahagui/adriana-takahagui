@@ -37,7 +37,7 @@ Disponível também em: [![pt-br](https://img.shields.io/badge/lang-pt--br-green
 
   * [Dashboard Google Play Store](https://github.com/adriana-takahagui/Google-Play-Store): Dashboard for analysing and identifying successful apps at Google Play Store (2nd FLAI Data Visualization Competition)
   
-* ### 📊 Power BI + Python Projects
+* ### 📊+🐍 Power BI + Python Projects
   
   * [World Cup Qatar 2022 Prediction](https://github.com/adriana-takahagui/copa-mundo-2022): Project resulting from participating in the mini-course Data Science at the World Cup Qatar 2022, presented by FLAI Inteligência Articial, and taught by professors Ricardo Rocha and Juliana Scudilio.
   
