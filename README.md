@@ -45,6 +45,12 @@ Read this in other languages: [![English](https://img.shields.io/badge/lang-en-r
   
   * [Stone Data Challenge 2022](https://github.com/adriana-takahagui/STONE-Data-Challenge-2022-3-Etapa): Semifinais (TOP 10 entre mais de 1500 candidatos)
 
+## Minhas Certificações ⭐
+  
+* ### Microsoft  
+  
+  * [Microsoft Certified: Power BI Data Analyst Associate](https://github.com/adriana-takahagui/microsoft-certification) 
+  
 <!--
 **adriana-takahagui/adriana-takahagui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
