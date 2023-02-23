@@ -36,6 +36,8 @@ Read this in other languages: [![English](https://img.shields.io/badge/lang-en-r
   * [Dashboard do Profissional de Dados no Brasil](https://github.com/adriana-takahagui/Profissional-Dados-Brasil): 1º lugar na 3ª Competição da FLAI de Visualização de Dados. Dashboard desenvolvido com foco no profissional de dados, suas habilidades, atividades e remuneração. 
   
   * [Dashboard Google Play Store](https://github.com/adriana-takahagui/Google-Play-Store): Dashboard para análise de aplicativos de sucesso da Loja do Google (2ª Competição da FLAI de Visualização de Dados) 
+  
+  * [Dashboard Demanda de Aluguéis de Bicicleta](https://github.com/adriana-takahagui/demanda-alugueis-bicicletas): 1º lugar na 4ª Competição da FLAI de Visualização de Dados. Dashboard desenvolvido com foco na análise da demanda de aluguéis e estratégias para aumentar a prestação do serviço. 
 
 * ### 📊+🐍 Projetos de Power BI + Python
   
