@@ -49,7 +49,7 @@ Read this in other languages: [![English](https://img.shields.io/badge/lang-en-r
 
 * ### 📖 Storytelling with Data
   
-  * [Regional Car Sales](https://github.com/adriana-takahagui/Storytelling-with-data-exerc-5.2): Como podemos apresentar os dados quando trabalhamos com várias categorias de tal forma que que facilite a extração de insights? 
+  * [Regional Car Sales](https://github.com/adriana-takahagui/Storytelling-with-data-exerc-5.2): Como podemos apresentar os dados quando trabalhamos com várias categorias de tal forma que facilite a extração de insights? 
   
 ## Minhas Certificações ⭐
   
