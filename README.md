@@ -21,7 +21,7 @@ Read this in other languages: [![English](https://img.shields.io/badge/lang-en-r
 * 🗂️ Power Query (Linguagem M)
 * 📝 Excel
 * 📜 SQL
-* ⭐ PySpark
+* ⭐ Big Data | PySpark
 * 🧱 Databricks
 * 🔮 Machine Learning (Aprendizagem de Máquina)
 
