@@ -30,7 +30,15 @@ Read this in other languages: [![English](https://img.shields.io/badge/lang-en-r
 <a href="https://www.linkedin.com/in/adrianatakahagui/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
 
 ## Meus Projetos ⭐
-  
+
+* ### 🏆 Projetos do MBA em Data Science
+
+  * [Data Analytics](https://github.com/adriana-takahagui/mba-data-analytics): Projeto de Conclusão da Disciplina "Data Analytics" com criação de um dashboard em Power BI para Análise de Performance do Atendimento e Satisfação do Cliente de um e-Commerce.
+
+  * [Big Data](https://github.com/adriana-takahagui/mba-big-data): Projeto de Conclusão da Disciplina "Big Data" com análise das avaliações de títulos do IMDb e utilizando PySpark.
+   
+  * [Machine Learning](https://github.com/adriana-takahagui/mba-machine-learning): Projeto de Conclusão da Disciplina "Machine Learning" com desenvolvimento de um modelo de classificação para prever NPS e entender as variáveis de um detrator.
+
 * ### 📊 Projetos de Power BI
   
   * [Dashboard do Profissional de Dados no Brasil](https://github.com/adriana-takahagui/Profissional-Dados-Brasil): 1º lugar na 3ª Competição da FLAI de Visualização de Dados. Dashboard desenvolvido com foco no profissional de dados, suas habilidades, atividades e remuneração. 
